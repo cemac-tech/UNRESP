@@ -23,7 +23,7 @@ These are generic tools for use with the other UNRESP gitHub repos.
 
 ## Licence information ##
 
-*Coming soon*
+This project is currently licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
 
 <hr>
 
