@@ -10,7 +10,6 @@ Docs/*.aux
 Docs/*.out
 Docs/*.gz
 Docs/*.toc
-Docs/*.pdf
 
 #All these specific directories:
 Python/1733150_ElPanama/
