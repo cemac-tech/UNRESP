@@ -9,7 +9,7 @@
 \usepackage[T1]{fontenc}
 \renewcommand\labelitemii{$\circ$}
 \newcommand\tab[1][0.5cm]{\hspace*{#1}}
-\title{CEMAC Documentation: UNRESP}
+\title{CEMAC Documentation: UNRESP August 2018}
 \begin{document}
 
 \maketitle
@@ -36,7 +36,8 @@ where:
 The script requires a number of external python packages to be imported. CEMAC periodically asks faculty (FoE) IT suppurt at the University of Leeds to add any required packaes to the loadable python/python-libs modules. Any faculty member should therefore be able to access the required packages by typing the following into the UNIX command line:\\\\
 \tab \texttt{\$ module load python3}\\
 \tab \texttt{\$ module load python-libs}\\\\
-If the user still experiences any import errors when running the script, they should install the missing python packages themselves.
+If the user still experiences any import errors when running the script, they should install the missing python packages themselves.\\\\
+\textbf{This is no longer the standard setup:} Moved to anaconda for portability!
 
 \subsubsection{Output}
 Running the script successfully will launch the 3D plot in a separate window. The left and right mouse buttons can be used to rotate and zoom in/out of the plot, respectively.
